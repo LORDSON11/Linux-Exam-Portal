@@ -66,5 +66,5 @@ case "$QNO" in
   *) echo "Invalid question number"; exit 1 ;;
 esac
 
-echo "🧹 Cleanup complete for Question $QNO."
+echo "Cleanup complete for Question $QNO."
 exit 0
